@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.ranjeetbaba</groupId>
 	<artifactId>com.ranjeetbaba.petclinic</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>com.ranjeetbaba.petclinic</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -45,7 +45,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/rangitmishra/rbaba-pet-clinic.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>com.ranjeetbaba.petclinic-0.0.2</tag>
   </scm>
 
 </project>
