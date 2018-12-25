@@ -1,11 +1,14 @@
 package com.ranjeetbaba.petclinic.services.map;
 
 import com.ranjeetbaba.petclinic.model.Owner;
-import com.ranjeetbaba.petclinic.services.CrudService;
+import com.ranjeetbaba.petclinic.services.OwnerService;
 
-import java.util.Set;
+public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements OwnerService {
 
-public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements CrudService<Owner, Long> {
+    @Override
+    public Owner findByLastName(String lastName) {
+        return null;
+    }
 
     @Override
     public Owner save(Owner object) {
