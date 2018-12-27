@@ -1,1 +1,5 @@
+com/ranjeetbaba/petclinic/bootstrap/DataLoader.class
+com/ranjeetbaba/petclinic/controllers/OwnerController.class
 com/ranjeetbaba/petclinic/PetclinicApplication.class
+com/ranjeetbaba/petclinic/controllers/IndexController.class
+com/ranjeetbaba/petclinic/controllers/VetController.class
